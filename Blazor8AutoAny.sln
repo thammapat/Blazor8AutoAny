@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor8AutoAny", "Blazor8AutoAny\Blazor8AutoAny.csproj", "{4AEE3324-7EA0-470F-808D-66A8DA4439CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor8AutoAny.Client", "Blazor8AutoAny.Client\Blazor8AutoAny.Client.csproj", "{A6BC43B1-8BDB-4875-A87D-1C27E81DA999}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AEE3324-7EA0-470F-808D-66A8DA4439CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AEE3324-7EA0-470F-808D-66A8DA4439CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AEE3324-7EA0-470F-808D-66A8DA4439CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AEE3324-7EA0-470F-808D-66A8DA4439CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6BC43B1-8BDB-4875-A87D-1C27E81DA999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6BC43B1-8BDB-4875-A87D-1C27E81DA999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6BC43B1-8BDB-4875-A87D-1C27E81DA999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6BC43B1-8BDB-4875-A87D-1C27E81DA999}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AD00581-00AC-468F-AC11-5DDEB6DA5DAA}
+	EndGlobalSection
+EndGlobal
