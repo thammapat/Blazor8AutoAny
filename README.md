@@ -4,6 +4,6 @@
     1. Place or move the layout and navigation files of the server app's Components/Layout folder into the .Client project's Layout folder. Create a Layout folder in the .Client project if it doesn't exist.
     2. Place or move the components of the server app's Components/Pages folder into the .Client project's Pages folder. Create a Pages folder in the .Client project if it doesn't exist.
     3. Place or move the Routes component of the server app's Components folder into the .Client project's root folder.
-    4. ไฟล์ App.razor ให้อยู่ที่ Server/Components
-    5. ไฟล์ Error.razor ให้อยู่ที่ Server/Pages
+    4. file App.razor located at ServerProject/Components
+    5. file Error.razor located at ServerProject/Pages
     
