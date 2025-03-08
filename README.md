@@ -1,4 +1,5 @@
-# For apps that adopt an interactive client-side (WebAssembly or Auto) rendering mode and enable the render mode for the entire app via the Routes component:
+# Best template for .net 8 Blazor web app auto render mode. 
+### For apps that adopt an interactive client-side (WebAssembly or Auto) rendering mode and enable the render mode for the entire app via the Routes component:
 *Reference: https://learn.microsoft.com/en-us/aspnet/core/blazor/components/render-modes?view=aspnetcore-8.0*
 
     1. Place or move the layout and navigation files of the server app's Components/Layout folder into the .Client project's Layout folder. Create a Layout folder in the .Client project if it doesn't exist.
